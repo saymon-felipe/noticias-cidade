@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Trebuchet MS, Helvetica, sans-serif;
+	background: url(imagens/fundo.png) repeat-x;
+}
+
+#container {
+	width: 750px;
+	margin: 0 auto;
+}
+
+#cabecalho {
+	height: 150px;
+	background: url(imagens/detalhe-topo.png) no-repeat top right;
+	padding-top: 25px;
+}
